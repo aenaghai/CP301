@@ -13,7 +13,7 @@ FaceNet+MTCNN+SVM
 Dataset used: [Dataset](https://drive.google.com/drive/folders/1SGxKbPW4lTm-jwaC7i8HkZvMNgIV3OnZ?usp=share_link)
 The Dataset contains 510 frontal images of celebrity frontal profiles. This is a subset of CFPW dataset from the Kagggle dataset.
 <br/>
-[Git Link](https://github.com/aenaghai/CP301): open the' Copy_of_face_recg.ipynb' -> open the file in colaboratory and run all the cells
+[Notebook Link](https://colab.research.google.com/drive/1o6Z2Vj0qZf0aDNy67oUJfFRPRMupbqAH#scrollTo=CsnEa_GzlvE4): open the' Copy_of_face_recg.ipynb' -> open the file in colaboratory and run all the cells
 <br/>
 <br/>
 The Dataset used for these: [CFPW_Kaggle](https://www.kaggle.com/datasets/chinafax/cfpw-dataset) The dataset is directly taken up from Kaggle and used in the Kaggle notebook directly.
